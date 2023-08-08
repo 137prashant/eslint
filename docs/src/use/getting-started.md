@@ -1,4 +1,4 @@
----
+ ---
 title: Getting Started with ESLint
 eleventyNavigation:
     key: getting started 
@@ -145,7 +145,7 @@ Before you begin, you must already have a `package.json` file. If you don't, mak
 
 ## Next Steps
 
-* Learn about [advanced configuration](configure/) of ESLint.
+* Learn about the [advanced configuration](configure/) of ESLint.
 * Get familiar with the [command line options](command-line-interface).
 * Explore [ESLint integrations](integrations) into other tools like editors, build systems, and more.
 * Can't find just the right rule?  Make your own [custom rule](../extend/custom-rules).
